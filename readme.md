@@ -10,3 +10,11 @@ the template system I intend to use going forward.
 The trickiest part to convert was the index page as
 * blocks cannot be used and
 * '-' **not** '==' should be used for any statement containing 'do'
+
+## Helper script
+
+A helper script _launch.rb_ has been created to start the blog:
+
+    ruby launch.rb
+
+to get started.
